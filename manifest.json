@@ -1,0 +1,20 @@
+{
+  "name": "Larinya Wuus",
+  "short_name": "bekicing",
+  "icons": [
+    {
+      "src": "https://1.bp.blogspot.com/-23MD9cKAdvs/XyKkzEBcZHI/AAAAAAAACMY/-CcJfLyjji0VRiG9rr1p7BY4vGL6Ak-VACLcBGAsYHQ/s192/bekicing-icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-23MD9cKAdvs/XyKkzEBcZHI/AAAAAAAACMY/-CcJfLyjji0VRiG9rr1p7BY4vGL6Ak-VACLcBGAsYHQ/s512/bekicing-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#34558A",
+  "background_color": "#FFF",
+  "display": "standalone",
+  "start_url": "https://bekicing.blogspot.com"
+}
